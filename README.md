@@ -61,10 +61,8 @@ npm i
 npm run dev
 ```
 
-##Home page
 ![image](https://github.com/user-attachments/assets/874f676d-5c62-4852-aecc-9c8bf03e00a9)
 
-##Result page
 ![image](https://github.com/user-attachments/assets/85b059f3-1d11-4c9d-a88f-5c0dd49f21dc)
 
 
